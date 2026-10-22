@@ -1,7 +1,9 @@
 ---
 title: test1
 date: 2026-10-21 23:08:26
-tags:
+tags: [随笔, 建站]
+categories: [记录]
+description: '使用引用&的注意事项。'
 ---
 🚨 避坑一：C++ 默认参数的“潜规则”
 出问题的地方：void Func1(int a = 10, int b, int c = 20)
