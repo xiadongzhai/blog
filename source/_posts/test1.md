@@ -1,8 +1,8 @@
 ---
-title: test1
+title: &
 date: 2026-10-21 23:08:26
 tags: [&，注意]
-categories: [&，注意]
+categories: [[注意，宏]]
 description: '使用引用&的注意事项。'
 ---
 

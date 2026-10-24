@@ -2,10 +2,11 @@
 title: macro
 date: 2026-10-22 15:49:13
 tags: [macro,注意]
-categories: [macro,注意]
+categories: [[注意，宏]]
 description: '记录宏的注意事项'
 ---
-
+缺点：复杂/类型安全检查/不能调试
+优点：预处理
 
 一，
 错误范例
